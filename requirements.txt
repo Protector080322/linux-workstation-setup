@@ -1,0 +1,43 @@
+# Terminal UI
+rich
+textual
+
+# CLI framework
+typer
+
+# System monitoring
+psutil
+
+# Configuration
+pyyaml
+python-dotenv
+
+# Network diagnostics
+requests
+httpx
+dnspython
+ping3
+python-nmap
+
+# Docker integration
+docker
+
+# Security / vulnerability checks
+pip-audit
+safety
+packaging
+
+# Reporting
+jinja2
+markdown
+tabulate
+
+# Data / scan history
+sqlalchemy
+
+# AI agent integration
+anthropic
+openai
+
+# Logging
+loguru
