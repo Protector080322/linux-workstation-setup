@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Reports
+reports/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+ruff_cache/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Docker
+docker-data/
